@@ -1,9 +1,9 @@
 # Kaggle-Bike-Sharing-Demand
-setwd("E:/kaggle data/bike sharing")
 
 
-train=read.csv("train_bike.csv")
-test=read.csv("test_bike.csv")
+
+train=read.csv("train.csv")
+test=read.csv("test.csv")
 str(train)
 
 
